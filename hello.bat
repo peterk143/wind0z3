@@ -2,6 +2,7 @@
 @ECHO off
 GOTO :START
 
+REM comments
 moar comments
 
 :START 
