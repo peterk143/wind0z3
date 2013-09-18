@@ -3,6 +3,6 @@
 shutdown -r :: restart
 shutdown -s :: shutdown
 shutdown -l :: logoff
-shutdown -t xx :: number of seconds to wait
+shutdown -t 02 :: wait 2 seconds
 shutdown -i :: interactive
 shutdown -a :: aborts previous command 
